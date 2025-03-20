@@ -1,0 +1,6 @@
+# Requisiti principali
+PyPDF2>=3.0.0  # Libreria per la manipolazione dei PDF
+
+# Tkinter è incluso nella standard library di Python
+# Su alcuni sistemi Linux potrebbe richiedere:
+# sudo apt-get install python3-tk
